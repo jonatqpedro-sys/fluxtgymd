@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Fluxity Enterprise</title>
+    <meta name="description" content="Fluxity Enterprise" />
+
+    <!-- Open Graph (Instagram/Facebook/LinkedIn/WhatsApp etc.) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Fluxity Enterprise" />
+    <meta property="og:description" content="Fluxity Enterprise" />
+    <meta property="og:url" content="https://SEU-DOMINIO.com/" />
+
+    <!-- IMPORTANTE: precisa ser URL ABSOLUTA (https://...) -->
+    <meta property="og:image" content="https://SEU-DOMINIO.com/og/fluxity-enterprise-og.png" />
+    <meta property="og:image:secure_url" content="https://SEU-DOMINIO.com/og/fluxity-enterprise-og.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Fluxity Enterprise (preto e branco)" />
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Fluxity Enterprise" />
+    <meta name="twitter:description" content="Fluxity Enterprise" />
+    <meta name="twitter:image" content="https://SEU-DOMINIO.com/og/fluxity-enterprise-og.png" />
+
+    <style>
+      body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; background:#000; color:#fff; }
+      .wrap { min-height: 100vh; display:flex; align-items:center; justify-content:center; text-align:center; padding: 40px; }
+      h1 { font-size: 56px; margin: 0; letter-spacing: 1px; }
+      p { opacity: .75; margin-top: 12px; }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <div>
+        <h1>Fluxity Enterprise</h1>
+        <p>Preview image configurada no &lt;head&gt;.</p>
+      </div>
+    </div>
+  </body>
+</html>
